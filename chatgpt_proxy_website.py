@@ -16,9 +16,9 @@ proxies = {"https": ""}
 
 # 定义Cookie参数
 # 需要在cookie获取以下三个参数，_puid为plus会员专属，没它不行
-_puid = ""
-cf_clearance = ""
-session_token = ""
+_puid = "769dc1b0-6c0e-449b-ad2f-14b2ccd52360"
+cf_clearance = "5GFj6ghVUQQjjtuomXzUMpA.KXYBj7cdAz4IiCBvm1E-1753380059-1.2.1.1-r2FMGuCse6ANRNBEbkmbuT22Vo8sW_OSxo61SaIVvXTUEr5789H7kutuNAzFiHB0ozLYXNxGvhdUVLjrAwiJAoJAz07MSgjh7w6k68lIMkMnZwLFqVZDJaFZ3NL3TPlTepyHFTzKD95a0zkT_j1a0Gvcvy9PyVBUxrwZK3_ZZRD9.PWdjoImofgO8yTI_NlKP.ONAv5CaXEVANyVrY_DeM9Un7p4snKGiB.KbLCre7A"
+session_token = "https%3A%2F%2Fchatgpt.com"
 
 # 请求头
 headers = {
